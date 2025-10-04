@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firebase Auth Test</title>
+    <script type="module">
+        // Firebase v9+ config
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.0.0/firebase-app.js';
+        import { getAuth, GoogleAuthProvider, signInWithPopup } from 'https://www.gstatic.com/firebasejs/10.0.0/firebase-auth.js';
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyCmAMUuacg2EPx6CXJ9-wB0M0HBojVhz2Y",
+            authDomain: "polydoc-b2c8f.firebaseapp.com",
+            projectId: "polydoc-b2c8f",
+            storageBucket: "polydoc-b2c8f.firebasestorage.app",
+            messagingSenderId: "415564421653",
+            appId: "1:415564421653:web:db431fa12ac81b3e550c1c"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const provider = new GoogleAuthProvider();
+
+        window.testFirebaseAuth = async () => {
+            try {
+                console.log('Attempting Firebase Auth...');
+                const result = await signInWithPopup(auth, provider);
+                console.log('Success:', result.user.email);
+                document.getElementById('result').innerHTML = 
+                    `<div style="color: green;">✓ Authentication successful! User: ${result.user.email}</div>`;
+            } catch (error) {
+                console.error('Auth error:', error);
+                document.getElementById('result').innerHTML = 
+                    `<div style="color: red;">✗ Authentication failed: ${error.message}<br>Code: ${error.code}</div>`;
+            }
+        };
+    </script>
+</head>
+<body style="font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: 0 auto;">
+    <h1>Firebase Auth Test</h1>
+    <p>This page tests Firebase authentication to diagnose CORS issues.</p>
+    
+    <button onclick="testFirebaseAuth()" style="
+        background: #4285f4; 
+        color: white; 
+        border: none; 
+        padding: 12px 24px; 
+        border-radius: 8px; 
+        cursor: pointer;
+        font-size: 16px;
+    ">
+        Test Google Sign-In
+    </button>
+    
+    <div id="result" style="margin-top: 20px; padding: 10px; border-radius: 8px;"></div>
+    
+    <div style="margin-top: 30px; padding: 15px; background: #f5f5f5; border-radius: 8px;">
+        <h3>Debug Information:</h3>
+        <p><strong>Current URL:</strong> <span id="currentUrl"></span></p>
+        <p><strong>Origin:</strong> <span id="origin"></span></p>
+        <p><strong>Protocol:</strong> <span id="protocol"></span></p>
+    </div>
+
+    <script>
+        document.getElementById('currentUrl').textContent = window.location.href;
+        document.getElementById('origin').textContent = window.location.origin;
+        document.getElementById('protocol').textContent = window.location.protocol;
+    </script>
+</body>
+</html>

@@ -1,0 +1,1945 @@
+{
+  "ef24464c-acd3-4426-97bc-b27f50d9f3d0_1_0": {
+    "chunk_id": "ef24464c-acd3-4426-97bc-b27f50d9f3d0_1_0",
+    "document_id": "ef24464c-acd3-4426-97bc-b27f50d9f3d0",
+    "text": "of India",
+    "page_number": 1,
+    "element_type": "text",
+    "bbox": [],
+    "language": "en",
+    "embedding": null,
+    "metadata": null
+  },
+  "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_0": {
+    "chunk_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_0",
+    "document_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73",
+    "text": "Wednesday is an American supernatural mystery comedy[2] television series based on the character Wednesday Addams by Charles Addams. Created by Alfred Gough and Miles Millar, it stars Jenna Ortega as the titular character, with Gwendoline Christie, Riki Lindhome, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Georgie Farmer, Naomi J. Ogawa, Christina Ricci, and Moosa Mostafa appearing in supporting roles.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      0,
+      500,
+      30
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 2
+    }
+  },
+  "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_1": {
+    "chunk_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_1",
+    "document_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73",
+    "text": ", and Moosa Mostafa appearing in supporting roles. Four out of the eight episodes of the first season were directed by Tim Burton, who also was executive producer. The first season revolves around Wednesday Addams, who attempts to solve a murder mystery at her new school.[3]",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      0,
+      500,
+      30
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 1,
+      "total_chunks": 2
+    }
+  },
+  "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_2": {
+    "chunk_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_2",
+    "document_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73",
+    "text": "Burton was previously approached to direct the 1991 film The Addams Family and was later involved in a canceled stop-motion animated film featuring the Addams Family. In October 2020, he was reported to be helming a television series, which was later given a series order by Netflix. Ortega was cast in part to represent the character's Latina heritage.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      30,
+      500,
+      60
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 2
+    }
+  },
+  "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_3": {
+    "chunk_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73_1_3",
+    "document_id": "47effda2-82a7-4d9b-baab-f9e7d9794b73",
+    "text": "part to represent the character's Latina heritage. Ricci, who had played Wednesday in the 1991 film and its 1993 sequel Addams Family Values, was asked by Burton to join the series in a supporting role. Filming took place in Romania between September 2021 and March 2022.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      30,
+      500,
+      60
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 1,
+      "total_chunks": 2
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_0": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_0",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "The Future of Artificial Intelligence",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      0,
+      500,
+      30
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_1": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_1",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Artificial Intelligence (AI) is one of the most rapidly growing fields in technology today. It refers to the ability of machines to perform tasks that normally require human intelligence, such as understanding language, recognizing patterns, solving problems, and making decisions.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      30,
+      500,
+      60
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_2": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_2",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Applications of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      60,
+      500,
+      90
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_3": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_3",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "AI has a wide range of applications across industries:",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      90,
+      500,
+      120
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_4": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_4",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Healthcare: AI helps in early disease detection, drug discovery, and personalized treatments.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      120,
+      500,
+      150
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_5": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_5",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Finance: Fraud detection, algorithmic trading, and customer service chatbots.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      150,
+      500,
+      180
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_6": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_6",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Education: AI-powered tutoring systems and automated grading.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      180,
+      500,
+      210
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_7": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_7",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Transportation: Self-driving cars and traffic management systems.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      210,
+      500,
+      240
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_8": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_8",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Advantages of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      240,
+      500,
+      270
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_9": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_9",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Automation of repetitive tasks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      270,
+      500,
+      300
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_10": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_10",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Faster decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      300,
+      500,
+      330
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_11": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_11",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Reduction of human error",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      330,
+      500,
+      360
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_12": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_12",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "24/7 availability",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      360,
+      500,
+      390
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_13": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_13",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Challenges of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      390,
+      500,
+      420
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_14": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_14",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Job displacement due to automation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      420,
+      500,
+      450
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_15": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_15",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Ethical concerns in decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      450,
+      500,
+      480
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_16": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_16",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Data privacy and security risks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      480,
+      500,
+      510
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_17": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_17",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "High cost of implementation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      510,
+      500,
+      540
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_18": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_18",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Conclusion",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      540,
+      500,
+      570
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa_1_19": {
+    "chunk_id": "6552590c-8018-4a06-9f66-25b3f36663aa_1_19",
+    "document_id": "6552590c-8018-4a06-9f66-25b3f36663aa",
+    "text": "Artificial Intelligence is transforming the way we live and work. While it brings many opportunities, it also presents significant challenges that society must address. The future of AI will depend on how well we balance innovation with responsibility.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      570,
+      500,
+      600
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_0": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_0",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "The Future of Artificial Intelligence",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      0,
+      500,
+      30
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_1": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_1",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Artificial Intelligence (AI) is one of the most rapidly growing fields in technology today. It refers to the ability of machines to perform tasks that normally require human intelligence, such as understanding language, recognizing patterns, solving problems, and making decisions.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      30,
+      500,
+      60
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_2": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_2",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Applications of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      60,
+      500,
+      90
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_3": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_3",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "AI has a wide range of applications across industries:",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      90,
+      500,
+      120
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_4": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_4",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Healthcare: AI helps in early disease detection, drug discovery, and personalized treatments.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      120,
+      500,
+      150
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_5": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_5",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Finance: Fraud detection, algorithmic trading, and customer service chatbots.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      150,
+      500,
+      180
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_6": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_6",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Education: AI-powered tutoring systems and automated grading.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      180,
+      500,
+      210
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_7": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_7",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Transportation: Self-driving cars and traffic management systems.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      210,
+      500,
+      240
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_8": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_8",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Advantages of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      240,
+      500,
+      270
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_9": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_9",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Automation of repetitive tasks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      270,
+      500,
+      300
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_10": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_10",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Faster decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      300,
+      500,
+      330
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_11": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_11",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Reduction of human error",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      330,
+      500,
+      360
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_12": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_12",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "24/7 availability",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      360,
+      500,
+      390
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_13": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_13",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Challenges of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      390,
+      500,
+      420
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_14": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_14",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Job displacement due to automation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      420,
+      500,
+      450
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_15": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_15",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Ethical concerns in decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      450,
+      500,
+      480
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_16": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_16",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Data privacy and security risks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      480,
+      500,
+      510
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_17": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_17",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "High cost of implementation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      510,
+      500,
+      540
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_18": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_18",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Conclusion",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      540,
+      500,
+      570
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8_1_19": {
+    "chunk_id": "9d6c110f-35b3-410e-acb2-63255036e9d8_1_19",
+    "document_id": "9d6c110f-35b3-410e-acb2-63255036e9d8",
+    "text": "Artificial Intelligence is transforming the way we live and work. While it brings many opportunities, it also presents significant challenges that society must address. The future of AI will depend on how well we balance innovation with responsibility.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      570,
+      500,
+      600
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_0": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_0",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "The Future of Artificial Intelligence",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      0,
+      500,
+      30
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_1": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_1",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Artificial Intelligence (AI) is one of the most rapidly growing fields in technology today. It refers to the ability of machines to perform tasks that normally require human intelligence, such as understanding language, recognizing patterns, solving problems, and making decisions.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      30,
+      500,
+      60
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_2": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_2",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Applications of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      60,
+      500,
+      90
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_3": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_3",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "AI has a wide range of applications across industries:",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      90,
+      500,
+      120
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_4": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_4",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Healthcare: AI helps in early disease detection, drug discovery, and personalized treatments.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      120,
+      500,
+      150
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_5": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_5",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Finance: Fraud detection, algorithmic trading, and customer service chatbots.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      150,
+      500,
+      180
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_6": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_6",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Education: AI-powered tutoring systems and automated grading.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      180,
+      500,
+      210
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_7": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_7",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Transportation: Self-driving cars and traffic management systems.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      210,
+      500,
+      240
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_8": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_8",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Advantages of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      240,
+      500,
+      270
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_9": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_9",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Automation of repetitive tasks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      270,
+      500,
+      300
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_10": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_10",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Faster decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      300,
+      500,
+      330
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_11": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_11",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Reduction of human error",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      330,
+      500,
+      360
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_12": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_12",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "24/7 availability",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      360,
+      500,
+      390
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_13": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_13",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Challenges of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      390,
+      500,
+      420
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_14": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_14",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Job displacement due to automation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      420,
+      500,
+      450
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_15": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_15",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Ethical concerns in decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      450,
+      500,
+      480
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_16": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_16",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Data privacy and security risks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      480,
+      500,
+      510
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_17": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_17",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "High cost of implementation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      510,
+      500,
+      540
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_18": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_18",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Conclusion",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      540,
+      500,
+      570
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_19": {
+    "chunk_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4_1_19",
+    "document_id": "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4",
+    "text": "Artificial Intelligence is transforming the way we live and work. While it brings many opportunities, it also presents significant challenges that society must address. The future of AI will depend on how well we balance innovation with responsibility.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      570,
+      500,
+      600
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_0": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_0",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "The Future of Artificial Intelligence",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      0,
+      500,
+      30
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_1": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_1",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Artificial Intelligence (AI) is one of the most rapidly growing fields in technology today. It refers to the ability of machines to perform tasks that normally require human intelligence, such as understanding language, recognizing patterns, solving problems, and making decisions.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      30,
+      500,
+      60
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_2": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_2",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Applications of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      60,
+      500,
+      90
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_3": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_3",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "AI has a wide range of applications across industries:",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      90,
+      500,
+      120
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_4": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_4",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Healthcare: AI helps in early disease detection, drug discovery, and personalized treatments.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      120,
+      500,
+      150
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_5": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_5",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Finance: Fraud detection, algorithmic trading, and customer service chatbots.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      150,
+      500,
+      180
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_6": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_6",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Education: AI-powered tutoring systems and automated grading.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      180,
+      500,
+      210
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_7": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_7",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Transportation: Self-driving cars and traffic management systems.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      210,
+      500,
+      240
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_8": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_8",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Advantages of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      240,
+      500,
+      270
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_9": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_9",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Automation of repetitive tasks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      270,
+      500,
+      300
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_10": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_10",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Faster decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      300,
+      500,
+      330
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_11": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_11",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Reduction of human error",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      330,
+      500,
+      360
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_12": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_12",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "24/7 availability",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      360,
+      500,
+      390
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_13": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_13",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Challenges of AI",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      390,
+      500,
+      420
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_14": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_14",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Job displacement due to automation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      420,
+      500,
+      450
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_15": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_15",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Ethical concerns in decision-making",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      450,
+      500,
+      480
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_16": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_16",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Data privacy and security risks",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      480,
+      500,
+      510
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_17": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_17",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "High cost of implementation",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      510,
+      500,
+      540
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_18": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_18",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Conclusion",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      540,
+      500,
+      570
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_19": {
+    "chunk_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b_1_19",
+    "document_id": "a1fc3cb6-6115-4e1a-ac47-e8b44822966b",
+    "text": "Artificial Intelligence is transforming the way we live and work. While it brings many opportunities, it also presents significant challenges that society must address. The future of AI will depend on how well we balance innovation with responsibility.",
+    "page_number": 1,
+    "element_type": "paragraph",
+    "bbox": [
+      0,
+      570,
+      500,
+      600
+    ],
+    "language": "en",
+    "embedding": null,
+    "metadata": {
+      "confidence": 1.0,
+      "font_info": {
+        "style": "Normal"
+      },
+      "chunk_index": 0,
+      "total_chunks": 1
+    }
+  }
+}

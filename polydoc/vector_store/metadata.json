@@ -1,0 +1,93 @@
+{
+  "9845b494-e2ff-4f22-94f8-15507b463cfe": {
+    "total_chunks": 4,
+    "added_timestamp": 117304.515,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  },
+  "714d55ff-f68b-4dbb-81fa-9faadd84b6b3": {
+    "total_chunks": 25,
+    "added_timestamp": 117479.703,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  },
+  "47effda2-82a7-4d9b-baab-f9e7d9794b73": {
+    "total_chunks": 4,
+    "added_timestamp": 250099.5971097,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  },
+  "6552590c-8018-4a06-9f66-25b3f36663aa": {
+    "total_chunks": 20,
+    "added_timestamp": 250363.2015819,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  },
+  "9d6c110f-35b3-410e-acb2-63255036e9d8": {
+    "total_chunks": 20,
+    "added_timestamp": 251076.5849112,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  },
+  "9196a92d-2a4c-4fd8-b15b-e702c74fc1c4": {
+    "total_chunks": 20,
+    "added_timestamp": 251581.6073976,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  },
+  "a1fc3cb6-6115-4e1a-ac47-e8b44822966b": {
+    "total_chunks": 20,
+    "added_timestamp": 252131.5872158,
+    "languages": [
+      "en"
+    ],
+    "pages": [
+      1
+    ],
+    "element_types": [
+      "paragraph"
+    ]
+  }
+}

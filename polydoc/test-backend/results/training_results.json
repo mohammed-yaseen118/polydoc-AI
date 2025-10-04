@@ -1,0 +1,65 @@
+{
+  "classification": {
+    "task_type": "classification",
+    "accuracy": 0.25,
+    "precision": 0.0625,
+    "recall": 0.25,
+    "f1_score": 0.1,
+    "average_confidence": 0.0,
+    "label_encoder": "LabelEncoder()",
+    "num_classes": 3,
+    "class_names": [
+      "negative",
+      "neutral",
+      "positive"
+    ],
+    "training_samples": 16,
+    "validation_samples": 4,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  },
+  "qa": {
+    "task_type": "question_answering",
+    "average_similarity": 0.21813725490196076,
+    "average_confidence": 0.6704926893115044,
+    "training_samples": 16,
+    "validation_samples": 4,
+    "sample_predictions": [
+      [
+        "What happens to memory under load?",
+        "According to the document:\n\nMemory consumption increases exponentially\n\nAdditional relevant information from the document:\n\n1. Memory consumption increases exponentially under heavy load conditions.",
+        "Consumption increases exponentially"
+      ],
+      [
+        "What does the documentation cover?",
+        "According to the document:\n\navailable features\n\nAdditional relevant information from the document:\n\n1. The documentation provides adequate coverage of available features.",
+        "Adequate coverage of available features"
+      ],
+      [
+        "What does the innovative approach deliver?",
+        "According to the document:\n\nsuperior user experience satisfaction\n\nAdditional relevant information from the document:\n\n1. Innovative approach delivers superior user experience satisfaction.",
+        "Superior user experience satisfaction"
+      ],
+      [
+        "What do legacy dependencies create?",
+        "According to the document:\n\nAdditional relevant information from the document:\n\n1. Legacy code dependencies create maintenance and upgrade challenges.",
+        "Maintenance and upgrade challenges"
+      ]
+    ]
+  }
+}

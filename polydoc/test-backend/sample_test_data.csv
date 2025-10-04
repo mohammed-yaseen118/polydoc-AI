@@ -1,0 +1,23 @@
+text,label,sentiment,test_type
+"",empty,neutral,edge_case
+"a",minimal,neutral,edge_case
+"This is a very long text that goes on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on.",very_long,neutral,edge_case
+"!@#$%^&*()_+{}|:<>?[]\\;'./,",special_chars,neutral,edge_case
+"Hello 你好 Bonjour مرحبا Привет こんにちは",multilingual,neutral,edge_case
+"😀😃😄😁😆😅😂🤣😊😇🙂🙃😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨🧐🤓😎🤩🥳",emoji_text,positive,edge_case
+"THE TEXT IS ALL CAPS AND SHOUTY",caps,negative,normal
+"the text is all lowercase",lowercase,neutral,normal
+"MiXeD CaSe TeXt LiKe ThIs",mixed_case,neutral,edge_case
+"Text with numbers 123456789 and symbols @#$",alphanumeric,neutral,normal
+"Repeated word word word word word word word word",repetitive,neutral,edge_case
+"HTML <script>alert('test')</script> injection attempt",html_injection,negative,security
+"SQL injection attempt: '; DROP TABLE users; --",sql_injection,negative,security
+"Normal positive review with good experience",positive,positive,normal
+"Terrible negative experience with bad service",negative,negative,normal
+"Neutral statement with no strong opinion",neutral,neutral,normal
+"Sarcastic comment: Oh great, another wonderful bug",sarcastic,negative,edge_case
+"Question in text form: How does this work exactly?",question,neutral,edge_case
+"Multiple sentences. Each with different sentiment. Some positive! Some negative. Others neutral.",multi_sentiment,mixed,edge_case
+"Text with URLs: Check out https://example.com for more info",url_text,neutral,normal
+"Email address test: contact@example.com for support",email_text,neutral,normal
+"Phone number: Call us at 555-123-4567",phone_text,neutral,normal
